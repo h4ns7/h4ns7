@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Atualmente estou procurando uma oportunidade FRONT-END
-- 🌱 Estou aprendendo node.js
+- 🔭 Atualmente estou procurando uma oportunidade de emprego
+- 🌱 Em constante aprendizado 
 
 
 <div align="center">
