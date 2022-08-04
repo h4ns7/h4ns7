@@ -3,7 +3,7 @@
 
 
 - 🔭 Atualmente estou procurando uma oportunidade de emprego
-- 🌱 Em constante aprendizado 
+- 🌱 Estudante de Big Data
 
 
 <div align="center">
