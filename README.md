@@ -1,6 +1,4 @@
-<img width=120% bottom=50px src="https://github.com/h4ns7/h4ns7/blob/main/Blue_Gold_Elegant_Minimalist_Digital_Marketer_LinkedIn_Banner__1_-removebg-preview.png"/>
-<br>
-<br> 
+
 
 
 
@@ -10,6 +8,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=h4ns7&center=true&theme=ads-juicy-fresh&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
-
+<br><br>
 
  
+<img width=120% bottom=50px src="https://github.com/h4ns7/h4ns7/blob/main/Blue_Gold_Elegant_Minimalist_Digital_Marketer_LinkedIn_Banner__1_-removebg-preview.png"/>
+<br>
