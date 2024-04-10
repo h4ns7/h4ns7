@@ -14,5 +14,5 @@
 <br><br>
 
 <div align="center">
-<img width=120% bottom=50px src="https://github.com/h4ns7/h4ns7/blob/main/Blue_Gold_Elegant_Minimalist_Digital_Marketer_LinkedIn_Banner__1_-removebg-preview.png"/>
+<img src="https://github.com/h4ns7/h4ns7/blob/main/Blue_Gold_Elegant_Minimalist_Digital_Marketer_LinkedIn_Banner__1_-removebg-preview.png"/>
 </div>
